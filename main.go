@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	routes "github.com/rakshithsgowda/jwt-authentication-practice-project/routes"
+	routes "jwt-authentication/routes"
 
 	"github.com/gin-gonic/gin"
 )
